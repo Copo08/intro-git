@@ -3,4 +3,4 @@ taller desarrollado por google en colaboracion de KFASD para la capacitacion de 
 se usa la sintaxis d markdown 
 sesion de github 
 ## insertar una imagen
- 
+ ![hack](img/gato.jpg)
